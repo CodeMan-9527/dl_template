@@ -16,7 +16,8 @@ matplotlib = ">=3.10.5,<4"
 torch = { version = ">=2.5.1", index = "https://download.pytorch.org/whl/cpu" }
 torchvision = { version = ">=0.20.1", index = "https://download.pytorch.org/whl/cpu" }
 
-
+[tasks]
+lab = "jupyter lab --notebook-dir=."
 
 
 
