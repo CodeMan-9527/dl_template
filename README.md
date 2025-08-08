@@ -15,7 +15,7 @@ matplotlib = ">=3.10.5,<4"
 
 ### 2 把本模板 fork 到你的 github，在你的 github 中新建一个 repo，选择本模板作为模板
 
-### 3 git clone repo 到本体，运行下面的 2 个命令
+### 3 git clone repo 到本地，运行下面的 2 个命令
 
 ```powershell
 pixi install
